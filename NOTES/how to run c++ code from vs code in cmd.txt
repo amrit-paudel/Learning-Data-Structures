@@ -1,0 +1,6 @@
+
+
+There is a extension called
+C/C++ Compile Run
+
+install this and press f6

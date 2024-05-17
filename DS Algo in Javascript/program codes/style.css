@@ -1,0 +1,28 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+    background-color: rgb(58, 50, 50);
+    font-family: sans-serif;
+    height: 50vh;
+
+    display:flex; justify-content: center; align-items: center;
+    
+}
+
+div{
+    border: solid rgb(94, 88, 88);
+    padding: 14px 10px;
+
+    
+}
+
+div h1{
+font-size: 2.5rem;
+color: rgb(83, 79, 79);
+}
