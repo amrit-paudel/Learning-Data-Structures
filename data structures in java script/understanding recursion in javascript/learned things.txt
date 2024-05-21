@@ -1,0 +1,7 @@
+if the base case is not meet than error occurs like
+"Maximum call stack size exceeded"
+
+recursive function -: calling itself and recurring again and again 
+until it finds the base case.
+All we need is a base case and a recurring case.
+
